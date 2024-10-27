@@ -1,6 +1,4 @@
-![camera_click](https://github.com/user-attachments/assets/4c0c532d-3a6f-4cd4-8897-ebd90eb1a161)# Infinity-V4
-# Infinity
-
+# Infinity-V4
 ## Features
 <ol type = "1">
   <li> User can register into app and has to set his/her username. </li>
@@ -50,7 +48,7 @@
 |   |   |   |
 |---|---|---|
 
-
+![camera_click](https://github.com/user-attachments/assets/4c0c532d-3a6f-4cd4-8897-ebd90eb1a161)
 
 ![upload_options](https://github.com/user-attachments/assets/89831e85-7384-4403-9b66-1ad8263bc957)
 
