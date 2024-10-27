@@ -49,11 +49,14 @@
 
 |   |   |   |
 |---|---|---|
-![Uploading camera_click.png…]()
+
+
 
 ![upload_options](https://github.com/user-attachments/assets/89831e85-7384-4403-9b66-1ad8263bc957)
 
 ![search_screen](https://github.com/user-attachments/assets/4b895303-4c2f-4cd4-9398-0409dfb1513b)
+
+![camera_click](https://github.com/user-attachments/assets/9cb3ca1c-8a5c-4289-b6d0-98ec46e0bdbd)
 
 ![login_screen](https://github.com/user-attachments/assets/f4487867-f608-411a-b6b9-2bd05bfa91eb)
 
